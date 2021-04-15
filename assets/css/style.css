@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* This is the Header of the App */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -54,6 +55,7 @@ p {
   font-size: 16px;
 }
 
+/* This is the large photo on the app */
 .hero {
   height: 800px;
   width: 100%;
@@ -79,6 +81,7 @@ p {
   margin-left: 20px;
 }
 
+/* The "Benefits" section on the right side */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -138,6 +141,7 @@ p {
   max-width: 150px;
 }
 
+/* The "search engine opt" section */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -147,6 +151,7 @@ p {
   color: #ffffff;
 }
 
+/* The "online reputation mgmt" section */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -156,6 +161,7 @@ p {
   color: #ffffff;
 }
 
+/* social media marketing section */
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -192,6 +198,7 @@ p {
   font-size: 36px;
 }
 
+/* The bottom of the page, copyright info */
 .footer {
   padding: 30px;
   clear: both;
